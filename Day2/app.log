@@ -1,0 +1,12 @@
+2024-05-12T17:47:33+03:00 -- INFO -- Transaction processed for Ali with value -20
+2024-05-12T17:47:33+03:00 -- INFO -- Transaction processed for Ali with value -30
+2024-05-12T17:47:33+03:00 -- INFO -- Transaction processed for Ali with value -50
+2024-05-12T17:47:33+03:00 -- INFO -- Transaction processed for Ali with value -100
+2024-05-12T17:47:33+03:00 -- ERROR -- Transaction failed for Ali with value -100 - Insufficient funds
+2024-05-12T17:47:33+03:00 -- ERROR -- Transaction failed for Menna with value -100 - User not found
+2024-05-12T18:25:55+03:00 -- INFO -- Transaction processed for Ali with value -20
+2024-05-12T18:25:55+03:00 -- INFO -- Transaction processed for Ali with value -30
+2024-05-12T18:25:55+03:00 -- INFO -- Transaction processed for Ali with value -50
+2024-05-12T18:25:55+03:00 -- INFO -- Transaction processed for Ali with value -100
+2024-05-12T18:25:55+03:00 -- ERROR -- Transaction failed for Ali with value -100 - Insufficient funds
+2024-05-12T18:25:55+03:00 -- ERROR -- Transaction failed for Menna with value -100 - User not found
